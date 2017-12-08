@@ -1,0 +1,13 @@
+﻿PrisonName=展示监区
+DeviceID=0xFF04
+PrisonerTotal=52
+ToolTotal=0
+PoliceTotal=6
+LFRollcallID=4
+LFOutID=260
+LFInID=515
+LFRollcallThreshold=0
+LFOutThreshold=0
+LFInThreshold=0
+TerminalSlot=6
+ReaderType=1
